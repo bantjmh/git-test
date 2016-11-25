@@ -1,7 +1,7 @@
 # Git Note
 
-## 查看日志记录
-git log READ.md 
+__查看日志记录__
+    git log READ.md 
 
-## 添加并提交
-git commit -a -m file.txt
+__添加并提交__
+    git commit -a -m file.txt
