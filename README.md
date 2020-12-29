@@ -15,6 +15,7 @@
 	git reset HEAD Hello.java	//已添加&未提交
 	git reset --hard HEAD~1		//已添加&已提交  回退到上一个版本
 	git reset --hard 41dea12	//回退到指定版本
+	git push -u origin master -f	//强制提交
 
 ### 分支
 	
